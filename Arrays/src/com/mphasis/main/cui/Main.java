@@ -8,14 +8,19 @@ class Point{
 public class Main {
 
     public static void main(String[] args) {
-	    int[][] nums;
+        Point[] points;//static
+	    points = new Point[3];
 
-	    nums = new int[5][];
+	    points[0] = new Point();
+	    points[0].x=2;
+	    points[0].y=5;
 
-	    nums[0] = new int[2];
-        nums[1] = new int[4];
-        nums[2] = new int[3];
+	   for(Point Point : points){
+	       if(Point!=null){
+               System.out.println(Point.x + " " + Point.y);
+           }
+       }
 
-        System.out.println(nums);
+        System.out.println();
     }
 }
