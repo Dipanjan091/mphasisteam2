@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dd2f222-1535-4b2a-ae0d-9128dea93a07" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/FileInputStreamDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/out/production/FileInputStreamDemo/com/mphasis/main/cui/FileInputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileInputStreamDemo/src/com/mphasis/main/cui/FileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/FileOutputStreamDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo/out/production/FileOutputStreamDemo/com/mphasis/main/cui/FileOutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/FileOutputStreamDemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileOutputStreamDemo1/out/production/FileOutputStreamDemo1/com/mphasis/main/cui/FileOutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/FileWriterDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/FileWriterDemo/out/production/FileWriterDemo/com/mphasis/main/cui/FileWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Holding lock/Holding lock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/ThrowsDem/ThrowsDem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seriliazation.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vOasKWUpsUjai7Ylol3UEk9Jft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mphasis.main.cui.Main" />
+      <module name="Seriliazation" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dd2f222-1535-4b2a-ae0d-9128dea93a07" name="Default Changelist" comment="" />
+      <created>1626435800276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626435800276</updated>
+    </task>
+    <servers />
+  </component>
+</project>

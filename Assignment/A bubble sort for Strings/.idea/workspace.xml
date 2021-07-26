@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26f3477a-7280-47e7-9e63-4e82bf48869b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/ StringBuffer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/out/production/ StringBuffer/com/mphasis/main/cui/IndexOfDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/src/com/mphasis/main/cui/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/src/com/mphasis/main/cui/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ StringBuffer/src/com/mphasis/main/cui/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/ time for all good me.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/out/production/ time for all good me/com/mphasis/main/cui/indexOfDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ time for all good me/src/com/mphasis/main/cui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A bubble sort for Strings..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../An enumeration of the possible answers/An enumeration of the possible answers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoBox3/AutoBox3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Boolean and Character/Boolean and Character.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/FileInputStreamDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/out/production/FileInputStreamDemo/com/mphasis/main/cui/FileInputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileInputStreamDemo/src/com/mphasis/main/cui/FileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/FileOutputStreamDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo/out/production/FileOutputStreamDemo/com/mphasis/main/cui/FileOutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/FileOutputStreamDemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileOutputStreamDemo1/out/production/FileOutputStreamDemo1/com/mphasis/main/cui/FileOutputStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/FileWriterDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriterDemo/out/production/FileWriterDemo/com/mphasis/main/cui/FileWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Holding lock/Holding lock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/Stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/com/mphasis/main/cui/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/This is a test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../This is a test/out/production/This is a test/com/mphasis/main/cui/ChangeCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/out/production/Thread/com/mphasis/main/cui/CurrentThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/com/mphasis/main/cui/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/com/mphasis/main/cui/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/com/mphasis/main/cui/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/com/mphasis/main/cui/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/src/com/mphasis/main/cui/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Through an exception out of the method/Through an exception out of the method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThrowsDem/ThrowsDem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../concatenate Box object/concatenate Box object.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../equalsDemo/equalsDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/interface reference.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/out/production/interface reference/com/mphasis/main/cui/LambdaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/out/production/interface reference/com/mphasis/main/cui/MyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/src/com/mphasis/main/cui/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/src/com/mphasis/main/cui/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/src/com/mphasis/main/cui/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/src/com/mphasis/main/cui/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface reference/src/com/mphasis/main/cui/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../one String from another/one String from another.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClientApp/ClientApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Seriliazation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Seriliazation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Seriliazation/Seriliazation.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1vdFyysso1AQn5xNx7o0rAWChMz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.SortString">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mphasis.main.cui.Main" />
+      <module name="A bubble sort for Strings." />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mphasis.main.cui.SortString" />
+      <module name="A bubble sort for Strings." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mphasis.main.cui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26f3477a-7280-47e7-9e63-4e82bf48869b" name="Default Changelist" comment="" />
+      <created>1626884325925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626884325925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
