@@ -43,6 +43,7 @@ class Client {
         String clientID = args[0];
         String connectionType = args[1];
         int port = Integer.parseInt(args[2]);
+         port = 5469;
 
 
         switch(connectionType){

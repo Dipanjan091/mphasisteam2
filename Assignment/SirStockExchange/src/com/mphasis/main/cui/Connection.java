@@ -17,13 +17,13 @@ public class Connection implements Runnable {
 
     private PrintWriter out;
     private BufferedReader in;
-    private Main main;
+    private Server server;
 
 
-    public Connection (Socket clientSocket, Main excObj)
+    public Connection (Socket clientSocket, Server excObj)
     {
         this.conn = clientSocket;
-        this.main = excObj;
+        this.server = excObj;
         feedMessageQueue = new PriorityQueue<String>();
 
 
@@ -108,13 +108,13 @@ public class Connection implements Runnable {
                             //create new order object.
                             System.out.println("New Order received!");
                             Order incomingOrder = new Order(messageArray[0], OrderType.valueOf(messageArray[2]), Integer.parseInt(messageArray[3]), Double.parseDouble(messageArray[4]));
-                            main.addOrder(incomingOrder);
+                            server.addOrder(incomingOrder);
                             break;
 
                         case "CancelOrder":
                             System.out.println("Cancellation request received");
 
-                            main.cancelOrder(messageArray[0], messageArray[2]);
+                            server.cancelOrder(messageArray[0], messageArray[2]);
 
                             break;
 
@@ -122,7 +122,7 @@ public class Connection implements Runnable {
                         case "MarketData":
                             System.out.println("Sending Request for market data, client ID: " + messageArray[0]);
 
-                            main.sendMarketData(messageArray[0]);
+                            server.sendMarketData(messageArray[0]);
                             break;
 
                         default:
@@ -145,7 +145,7 @@ public class Connection implements Runnable {
         // wait for messages to be put in this connections 'queue'
         // transmist message to client.
         System.out.println("Registering client with exchange..." + this.toString());
-        main.registerClientFeed(clientID, this);
+        server.registerClientFeed(clientID, this);
         // out = new PrintWriter(conn.getOutputStream(), true);
 
         while(!isStopped)

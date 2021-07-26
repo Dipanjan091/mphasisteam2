@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.*;
 
-public class Main {
+public class Server {
     private boolean isStopped;
 
     //  1.  Listen for incoming connections
@@ -25,14 +25,14 @@ public class Main {
         // Then init one Exchange object.  this will create all the message queues and order structs
         //  call runServer
         int port = Integer.parseInt(args[0]);
+port= 5469;
+        Server ourServer = new Server();
 
-        Main ourMain = new Main();
-
-        ourMain.runServer(port);
+        ourServer.runServer(port);
 
     }
 
-    public Main(){
+    public Server(){
         // constructor for our main exchange
         orderbook = new ConcurrentHashMap<Double, PriorityQueue<Order>>();
         clientFeeds = new ConcurrentHashMap<String, Connection>();
@@ -55,14 +55,12 @@ public class Main {
                 System.out.println("Error connecting to client");
             }
 
+    //      new Thread(
+                 // new Connection(clientSock, this) ).start();
 
-
-            new Thread(
-                    new Connection(clientSock, this) ).start();
-
-
-
-        }//end while
+int vCore = Runtime.getRuntime().availableProcessors();
+ExecutorService service = Executors.newFixedThreadPool(vCore);
+service.execute(new Connection(clientSock,this));
 
 
     }// end runsever
@@ -159,7 +157,7 @@ public class Main {
                     //	return true;
                 }
 
-            }// end oouter for
+            }// end outer for
 
 
             if (currentBestFill.isRealOrder)
